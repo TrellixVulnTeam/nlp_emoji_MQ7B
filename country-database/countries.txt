@@ -169,7 +169,7 @@ name	fullname	english	alpha2	alpha3	iso	location	location-precise
 Пуэрто-Рико		Puerto Rico	PR	PRI	630	Америка	Карибский бассейн
 Республика Македония		Macedonia, The Former Yugoslav Republic Of	MK	MKD	807	Европа	Южная Европа
 Реюньон		Reunion	RE	REU	638	Африка	Восточная Африка
-Россия	Российская Федерация	Russian Federation	RU	RUS	643	Европа	Восточная Европа
+Россия	Российская Федерация	Russian Federation	:ru:	RUS	643	Европа	Восточная Европа
 Руанда	Руандийская Республика	Rwanda	RW	RWA	646	Африка	Восточная Африка
 Румыния		Romania	RO	ROU	642	Европа	Восточная Европа
 Самоа	Независимое Государство Самоа	Samoa	WS	WSM	882	Океания	Полинезия

@@ -1,0 +1,75 @@
+name;emoji
+автоспорт;:racing_car:
+мотоспорт;:motorcycle:
+авиамодельный спорт;:small_airplane:
+академический гребля;:person_rowing_boat:
+акробатика;:person_cartwheeling:
+бадминтон;:badminton:
+баскетбол;:basketball:
+биатлон;:skis:
+бильярд;:pool_8_ball:
+бейсбол;:baseball:
+бокс;:boxing_glove:
+бобслей;:sled:
+бодибилдинг;:flexed_biceps:
+боулинг;:bowling:
+велоспорт;:person_biking:
+вертолетный спорт;:helicopter:
+виртуальный спорт;:video_game:
+водный поло;:person_playing_water_polo:
+волейбол;:volleyball:
+вольный борьба;:people_wrestling:
+гандбол;:person_playing_handball:
+гольф;:person_golfing:
+горный лыжа;:skis:
+гребля на байдарка;:person_rowing_boat:
+греко-римский борьба;:people_wrestling:
+дзюдо;:martial_arts_uniform:
+единоборство;:people_wrestling:
+женский футбол;:soccer_ball:
+киберспорт;:video_game:
+керлинг;:curling_stone:
+конный спорт;:horse_racing:
+конек;:ice_skate:
+крикет;:cricket_game:
+кудо;:people_wrestling:
+легкий атлетика;:person_running:
+лыжный гонка;:skis:
+лыжный двоеборье;:skis:
+любительский футбол;:soccer_ball:
+мини-футбол;:soccer_ball:
+настольный теннис;:ping_pong:
+плавание;:person_swimming:
+прыжок в вода;:person_swimming:
+парусный спорт;:sailboat:
+пляжный футбол;:soccer_ball:
+покер;:joker:
+пятиборье;:people_wrestling:
+регби;:rugby_football:
+рыболовный спорт;:fishing_pole:
+сани;:sled:
+скелетон;:sled:
+сноуборд;:snowboarder:
+софтбол;:softball:
+спортивный гимнастика;:person_cartwheeling:
+стрельба из лук;:bow_and_arrow:
+стрельба пулевой;:water_pistol:
+стрельба стендовый;:water_pistol:
+сумо;:people_wrestling:
+трамплин;:skis:
+теннис;:tennis:
+триатлон;:person_biking:
+тяжелый атлетика;:person_lifting_weights:
+фехтование;:person_fencing:
+фигурный катание;:ice_skate:
+формула-1;:racing_car:
+фристайл;:snowboarder:
+футбол;:soccer_ball:
+футзал;:soccer_ball:
+хоккей;:ice_hockey:
+хоккей на трава;:field_hockey:
+хоккей с мяч;:field_hockey:
+художественный гимнастика;:person_cartwheeling:
+шахматы;:chess_pawn:
+шорт-трек;:ice_skate:
+экстрим;:parachute:
